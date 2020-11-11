@@ -1,0 +1,53 @@
+what is your name?
+My name is ROBO and I will help you with your investment queries today.
+
+Invest
+There are many options to invest:
+1. Regional or Investments Banks
+2. Stocks
+In which section would you like to invest?
+
+money
+There are many options to invest:
+1. Regional or Investments Banks
+2. Stocks \n
+In which section would you like to invest?
+
+where to put
+There are many options to invest:
+1. Regional or Investments Banks
+2. Stocks \n
+In which section would you like to invest?
+
+loans
+Housing,Personal,Educational.I recommend to visit SBI banks for this.
+
+investments banks
+well there are many such as UBS, Barclays, Deutsche bank, HSBC, Wells Fargo, etc.
+
+regional banks
+There are many SBI, IDBI, BOB, Kotak, etc.
+
+SBI
+SBI offers 10% Interest.
+
+IDBI
+kotak offers 07% Interest.
+
+BOB
+BOB offers 11% Interest.
+
+kotak
+kotak offers 08% Interest.
+
+stocks
+We have to companies to offer
+Zoho
+Reliance
+Choose any one to know more.
+
+zoho
+The company zoho has a ROI = 15%.
+
+reliance
+The company reliance has a ROI = 14%.
