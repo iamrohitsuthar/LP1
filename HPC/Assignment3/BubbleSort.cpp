@@ -72,7 +72,7 @@ void bubbleSortParallel(int b[], int n)
 	for(int i = 0 ; i < n-1 ; i++)
 	{
 		pass = i % 2;
-		#pragma omp parallel for default(none), shared(b,first,n)
+		#pragma omp parallel for
 		for (int j = pass ; j < n-1 ; j+=2)
 		{
 			if(b[j]>b[j+1])
